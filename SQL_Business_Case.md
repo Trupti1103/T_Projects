@@ -2,7 +2,7 @@
 
 We have analyzed approximately 100K e-commerce orders received in Brazil from 2016 to 2018 using data from Orders, Customers, Products, Order_details, Sellers, Payments, Order_review, and Geolocation Excel documents to understand insights on geographical reach, market trends, seasonality, customer buying pattern, operational efficiency, and finances. We have also provided some recommendations for business growth while having operational efficiency.
 
-![SQL Business Case ](https://github.com/Trupti1103/SQL_Business_Case_Target/assets/136971351/9e3fb63b-9f33-4319-9dbb-fd92b06e6523)
+![SQL Business Case ](https://github.com/Trupti1103/T_Projects/assets/136971351/e42f336d-e9f8-4384-a983-73b409dfeadb)
 
 Observation:
 
